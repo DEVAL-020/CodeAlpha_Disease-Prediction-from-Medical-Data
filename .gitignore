@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large/generated artifacts
+# models/*.pkl
