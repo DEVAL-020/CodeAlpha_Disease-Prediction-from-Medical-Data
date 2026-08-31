@@ -56,3 +56,7 @@ This is an internship project, **not** a certified diagnostic tool. It should ne
 
 ## Author
 Deval Patel
+
+## License
+
+This project is licensed under the MIT License.
